@@ -1,2 +1,2 @@
 # COVID SHOOTING GAME
-![](playScreen.png)
+![](playScreen.png | width=100)
