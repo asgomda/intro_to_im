@@ -1,3 +1,12 @@
+/*
+Name: Abdul Samad Gomda
+Date: 30 MY 2021
+Version: 1.0
+Description: A covid shooting game. To play, click on the covid particles with the scope to kill them.
+            You win when all the particles are killed.
+
+*/
+
 // initializing the dimesions of the game
 int HEIGHT = 700;
 int WIDTH = 500;
