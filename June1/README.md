@@ -1,2 +1,2 @@
 # SLIDING PUZZLE GAME
-<img src="playScreen.png", size = "400">
+<img src="playScreen.png" width = "400">
