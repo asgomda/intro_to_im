@@ -15,8 +15,8 @@ void draw() {
   img.loadPixels();
   for (int i=0; i< width; i++) {
     for (int j=0; j<height; j++) {
-      int pixelLocation = i + j*width;
-      color col = img.pixels[pixelLocation];
+      int pixelLocation = i + j*width; // getting the pixels at a particular location
+      color col = img.pixels[pixelLocation]; // getting the color of the pixel at that location
       float red = red(col);
       float blue = blue(col);
       float green = green(col);
@@ -29,6 +29,6 @@ void draw() {
     }
   }
 
-  img.updatePixels();
-  updatePixels();
+  img.updatePixels(); // updating the pixels in the original image
+  updatePixels(); // updating the pixels on the canvas
 }
