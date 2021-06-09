@@ -4,10 +4,12 @@ the galaxy. Armed with a a spaceship and unlimited bullets, it is the protagonis
 
 ## Background
 ![](background.gif)
-![](demoScreen.png)
+
 
 The background was made to include the parallax effect of zooming through space.
 
 ### Instructions
+![](demoScreen.png)
+
 - Move the spaceship by moving the mouse 
 - Press s to shoot
