@@ -4,4 +4,5 @@ the galaxy. Armed with a a spaceship and unlimited bullets, it is the protagonis
 
 ## Background
 ![](background.gif)
+
 The background was made to include the parallax effect of zooming through space.
