@@ -42,13 +42,13 @@ I dedicated today to making the home screen of the game. Positioning the text wa
 I scrapped the shooting idea and made it an infinite running game where the protagonist avoids falling eggs. I then had to make the game more interactive so I decided to add more powerups, different chickens and different spaceships. However, today I worked on the entire logic of the game such as creating and releasing the eggs, checking the distances between eggs and the player. 
 
 ### Game Over, PowerUps and HighScore - 06/12/2021
-<img src="powerUp.png" width="400">
-<img src="gameOverScreen.png" width = "400">
+<img src="/screenShots/powerUp.png" width="400">
+<img src="/screenShots/gameOverScreen.png" width = "400">
 
 Today, I worked on the game over screen, the powerups of the game and the highScore. I created a file to write new highScores to and keep track of previous highScores. I also included two powerups into the game, the first to double the score and the second to change the spaceship.
 
 ### Instructions and Final touches - 06/13/2021
-<img src="instructions.png" width="400">
+<img src="/screenShots/instructions.png" width="400">
 
 I finalized the project with the instructions page and some other features such as muting/unmuting the audio and play or pause the game. The ```.volume()``` method was really useful in setting the volume of the entire game.
 
