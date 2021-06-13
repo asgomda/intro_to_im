@@ -18,10 +18,10 @@ The background was made to include the parallax effect of zooming through space.
 - If an egg touches you, you lose.
 
 ### Sprites
-<img src="images/Egg.png" width="400">
-<img src="images/spaceship1.png" width="400">
-<img src="images/powerup1.png" width="400">
-<img src="images/Chicken1.png" width="400">
+<img src="images/Egg.png" width="200">
+<img src="images/spaceship1.png" width="200">
+<img src="images/powerup1.png" width="200">
+<img src="images/Chicken1.png" width="200">
 
 
 
