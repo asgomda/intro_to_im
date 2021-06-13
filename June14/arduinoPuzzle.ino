@@ -31,14 +31,14 @@ void loop() {
   int switchGreenState = digitalRead(pushSwitchGreen);
   int switchYellowState = digitalRead(pushSwitchYellow);
   // making the puzzle with the leds
- 
-  if (switchRedState == HIGH) { // pressing the red button
+
+  if (switchRedState == HIGH && switchGreenState == HIGH) { // pressing the red button and green button
     // making red led blink
     digitalWrite(redLedPin, HIGH);
     delay(1000);
     digitalWrite(redLedPin, LOW);
     delay(500);
-    
+
     // making blue pin blink
     digitalWrite(blueLedPin, HIGH);
     delay(500);
@@ -56,14 +56,14 @@ void loop() {
     delay(100);
     digitalWrite(yellowLedPin, LOW);
     delay(500);
-    
-  }  if (switchGreenState == HIGH) { // pressing the green button
+
+  }  if (switchGreenState == HIGH && switchYellowState == HIGH) { // pressing the green button and yellow button
     // making the yellow led blink
     digitalWrite(yellowLedPin, HIGH);
     delay(500);
     digitalWrite(yellowLedPin, LOW);
     delay(500);
-    
+
     // making the yellow led blink again
     digitalWrite(yellowLedPin, HIGH);
     delay(500);
@@ -81,8 +81,8 @@ void loop() {
     delay(200);
     digitalWrite(blueLedPin, LOW);
     delay(200);
-    
-  } if (switchYellowState == HIGH) {// pressing the yellow button
+
+  } if (switchYellowState == HIGH && switchRedState == HIGH) {// pressing the yellow button and red button
     // making the blue led blink
     digitalWrite(blueLedPin, HIGH);
     delay(500);
@@ -95,7 +95,7 @@ void loop() {
     digitalWrite(redLedPin, LOW);
     delay(500);
 
-    // making the yellow led blink 
+    // making the yellow led blink
     digitalWrite(yellowLedPin, HIGH);
     delay(500);
     digitalWrite(yellowLedPin, LOW);
@@ -112,7 +112,7 @@ void loop() {
     delay(200);
     digitalWrite(redLedPin, LOW);
     delay(200);
-    
+
   }
 
   delay(1);        // delay in between reads for stability
