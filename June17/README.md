@@ -3,7 +3,6 @@ This is a simple analog control of LEDs using both a photoresistor and a switch.
 
 ### Project image
 <img src="projectImage.png" width = "400">
-[](projectImage.png)
 
 ### Schematic
 <img src="schematic.png" width = "400">
