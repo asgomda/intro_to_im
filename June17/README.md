@@ -8,7 +8,7 @@ This is a simple analog control of LEDs using both a photoresistor and a switch.
 <img src="schematic.png" width = "400">
 
 ### DEMO
-[https://youtu.be/Ydr5vRYVyvs](Here) is a link to the demo of the Project.
+[Here](https://youtu.be/Ydr5vRYVyvs) is a link to the demo of the Project.
 
 ### Conclusion
 The most difficult part of this project was figuring out the values to increase the LEDs by to make is obvious that the brightness was actually increasing, but after trying out different values, I was able to get the obvious change I desired.
