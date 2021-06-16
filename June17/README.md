@@ -2,10 +2,10 @@
 This is a simple analog control of LEDs using both a photoresistor and a switch. Pushing the switch increases the brightness of the blue LED and covering the photoresistor also increases the brightness of the Red Led and removing the covering resets the brightness to zero.
 
 ### Project image
-<img src="projectImage.HEIC" width = "400">
+<img src="projectImage.png" width = "400">
 
 ### Schematic
-<img src="schematic.HEIC" width = "400">
+<img src="schematic.png" width = "400">
 
 ### DEMO
 [](Here) is a link to the demo of the Project.
