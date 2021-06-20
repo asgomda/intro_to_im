@@ -23,7 +23,9 @@ int darkNotes[] = {NOTE_C4, NOTE_D4, NOTE_E4, NOTE_F4, NOTE_G4, NOTE_A4, NOTE_B4
 
 
 ### Image and Demo
-![Here](youtube.com) is the video demo on youtube
+[Here](youtube.com) is the video demo on youtube
+
+
 <img src="demoImage.png" width="400">
 
 
