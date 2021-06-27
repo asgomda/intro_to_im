@@ -5,4 +5,4 @@ This is a remaking of my midterm project with arduino. The spaceship is controll
 <img src="schematic.png" width = "400">
 
 ## Demo
-[Here](youtube.com) is a demo of the game.
+[Here](https://youtu.be/df23ZuRiRFQ) is a demo of the game.
