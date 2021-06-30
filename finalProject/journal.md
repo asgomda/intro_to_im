@@ -7,7 +7,7 @@ I am basing this project off of the inspiration I drew from the Mars rovers Curi
 
 ## Project Drawings 
 <img src="roverSideView.png" width="400">
-<img src="roverSketch.png" width="400">
+<img src="images/roverSketch.png" width="400">
 
 
 ## Project Details - 06/30/2021
