@@ -7,6 +7,7 @@ I am basing this project off of the inspiration I drew from the Mars rovers Curi
 
 ## Project Drawings 
 <img src="roverSideView.png" width="400">
+<img src="roverSketch.png" width="400">
 
 
 ## Project Details - 06/30/2021
@@ -17,4 +18,4 @@ I am basing this project off of the inspiration I drew from the Mars rovers Curi
 ## Project Images - 07/01/2021
 Today, I worked on the body of the rover and attached the tires. I also detailed the logic for the game and all the relevant parts to incorporate both from arduino and processing. 
 
-<img
+<img src="images/roverImg.png" width="400">
