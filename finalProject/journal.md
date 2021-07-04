@@ -19,3 +19,8 @@ I am basing this project off of the inspiration I drew from the Mars rovers Curi
 Today, I worked on the body of the rover and attached the tires. I also detailed the logic for the game and all the relevant parts to incorporate both from arduino and processing. 
 
 <img src="images/roverImg.png" width="400">
+
+## Journal - 07/02/2021
+Today, I completed the rest of the body of the rover and the circuit. I connected all the relevant components and stuck everything to the chassis. I also mounted the distance measuring sensor to the servo. 
+
+<img src="images/roverDesign.png" width="400">
