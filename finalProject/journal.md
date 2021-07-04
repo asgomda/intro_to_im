@@ -21,6 +21,9 @@ Today, I worked on the body of the rover and attached the tires. I also detailed
 <img src="images/roverImg.png" width="400">
 
 ## Journal - 07/02/2021
-Today, I completed the rest of the body of the rover and the circuit. I connected all the relevant components and stuck everything to the chassis. I also mounted the distance measuring sensor to the servo. 
+Today, I completed the rest of the body of the rover and the circuit. I connected all the relevant components and stuck everything to the chassis. I also mounted the distance measuring sensor to the servo. I also worked on the code to make the rover light-up when the environment is dark. I used the values from the LDR to make the RGB Led light up. 
 
 <img src="images/roverDesign.png" width="400">
+<img src="images/roverLights.png" width="400">
+
+
