@@ -26,4 +26,20 @@ Today, I completed the rest of the body of the rover and the circuit. I connecte
 <img src="images/roverDesign.png" width="400">
 <img src="images/roverLights.png" width="400">
 
+## Journal - 07/03/2021
+Today, I worked on the self-driving mode which is initiated when the potentiometer is less than 30% of the way. The main challenges I faced with this was that the DMS was not entirely accurate which sometimes resulted in a feedback loop where the rover just moved in circles. Though not an entire solve, moving the sensor to the center of the chassis of the rover reduced the occurance of this problem. 
+[Here](https://youtu.be/HsgtFkQRFH0) is a link to the self-Driving mode of the rover.
+
+
+## Journal - 07/04/2021
+The next stage was working on the Processing component of the project, so today, I worked on that. I made the welcome page of the game with options to drive, map, instructions, and exit using the concept of state machines. I also added background music from one of my favourite composers Hans Zimmer.
+
+<img src="images/landingScreen.png" width="400">
+
+## Journal - 07/05/2021
+Today, I completed all the other screens of the project including the instructions screen, map screen and drive screens. Since there were a number of buttons in the game, positioning everthing relative to everything else.
+
+<img src="images/driveScreen.png" width="400">
+<img src="images/instructionsScreen.png" width="400">
+<img src="images/mapScreen.png" width="400">
 
