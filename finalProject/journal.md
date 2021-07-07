@@ -43,3 +43,16 @@ Today, I completed all the other screens of the project including the instructio
 <img src="images/instructionsScreen.png" width="400">
 <img src="images/mapScreen.png" width="400">
 
+
+## Journal - 07/06/2021 and 07/07/2021
+The project was almost complete at this point after I worked on the communication from arduino to processing. But I ran into a problem when I tried to control the rover in processing, so I had to create different functions to control the rover in my arduino code. I also ran into another problem when I tried to toggle modes using both arduino and processing so I defaulted to using just arduino.
+
+
+## Video Links
+Here are links to videos of the different stages and modes of the rover. 
+
+[Here is a link to the rover mapping](https://youtu.be/VwGWEEjFZOw)
+[Here is a link to the rover in self driving mode](https://youtu.be/HsgtFkQRFH0)
+[Here is a link to the rover in manual control mode](https://youtu.be/VwGWEEjFZOw)
+
+Thank you!
