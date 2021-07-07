@@ -51,8 +51,9 @@ The project was almost complete at this point after I worked on the communicatio
 ## Video Links
 Here are links to videos of the different stages and modes of the rover. 
 
-[Here is a link to the rover mapping](https://youtu.be/VwGWEEjFZOw)
-[Here is a link to the rover in self driving mode](https://youtu.be/HsgtFkQRFH0)
-[Here is a link to the rover in manual control mode](https://youtu.be/VwGWEEjFZOw)
+[Here is a link to the rover mapping](https://youtu.be/VwGWEEjFZOw)        
+[Here is a link to the rover in self driving mode](https://youtu.be/HsgtFkQRFH0)      
+[Here is a link to the rover in manual control mode](https://youtu.be/VwGWEEjFZOw)         
+
 
 Thank you!
