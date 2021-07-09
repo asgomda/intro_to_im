@@ -37,7 +37,7 @@ The next stage was working on the Processing component of the project, so today,
 <img src="images/landingScreen.png" width="400">
 
 ## Journal - 07/05/2021
-Today, I completed all the other screens of the project including the instructions screen, map screen and drive screens. Since there were a number of buttons in the game, positioning everthing relative to everything else.
+Today, I completed all the other screens of the project including the instructions screen, map screen and drive screens. Since there were a number of buttons, the biggest challenge if faced was figuring out how to position the different buttons relative to everything else.
 
 <img src="images/driveScreen.png" width="400">
 <img src="images/instructionsScreen.png" width="400">
