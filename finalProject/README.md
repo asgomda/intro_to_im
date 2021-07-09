@@ -6,8 +6,15 @@ The rover consist of a main chassis with four tires on which the circuit and ard
 
 <img src="images/roverDesign.png" width="400">
 
+### Processing Screens
+Below are the screens of the project including the instructions screen, map screen and drive screens.
+
+<img src="images/driveScreen.png" width="400">
+<img src="images/instructionsScreen.png" width="400">
+<img src="images/mapScreen.png" width="400">
+
 ### Control
-The rover has two main modes depending on the position of the potentiometer. When the potentiometer is less than 30% of the the way through, the rover would be in self-Driving mode where it avoids obstacles. Similarly, when the potentiometer is over 70% of the way, the rover would be in manual control mode where the user would have to control the rover with the arrow keys in processing.
+The rover has two main modes depending on the position of the potentiometer. When the potentiometer is less than 30% of the the way through, the rover would be in self-Driving mode where it avoids obstacles. Similarly, when the potentiometer is over 70% of the way, the rover would be in manual control mode where the user would have to control the rover with the arrow keys in processing. The rover also automatically lights up when it is in dark environments.
 
 ### Mapping
 The rover also has the mode to map the surrounding when the user presses M in processing. I achieved this by sending the servo angle and the distance measured by the Distance Measuring Sensor (DMS) and then calculated the x and y coordinates of the points (code below). 
