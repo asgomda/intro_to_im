@@ -7,8 +7,9 @@ The rover consist of a main chassis with four tires on which the circuit and ard
 <img src="images/roverDesign.png" width="400">
 
 ### Processing Screens
-Below are the screens of the project including the instructions screen, map screen and drive screens.
+Below are the screens of the project including the home screen, instructions screen, map screen and drive screens.
 
+<img src="images/landingScreen.png" width="400">
 <img src="images/driveScreen.png" width="400">
 <img src="images/instructionsScreen.png" width="400">
 <img src="images/mapScreen.png" width="400">
